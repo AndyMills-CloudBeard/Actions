@@ -16,4 +16,4 @@ jobs:
 
     steps:
       - name: Run Release Please
-        uses: googleapis/release-please-action@aeb7f8d38402d856532f7c879373d8116956b1c8 # v4.1.5
+        uses: googleapis/release-please-action@1155c2c8dcbd6b15e85bae6bc6d1fed9552663cb # v4.1.5
