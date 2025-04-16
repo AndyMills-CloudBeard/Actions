@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/AndyMills-CloudBeard/Actions/compare/v1.0.0...v1.0.1) (2025-04-16)
+
+
+### Bug Fixes
+
+* sha ([#12](https://github.com/AndyMills-CloudBeard/Actions/issues/12)) ([093f5b6](https://github.com/AndyMills-CloudBeard/Actions/commit/093f5b6d48289281de585004d1bf08ee4d6a43b2))
+
 ## 1.0.0 (2025-03-25)
 
 
